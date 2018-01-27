@@ -3,4 +3,7 @@ Sistema Audio Visual XIMBO
 @ Autor : José R F Junior - 18/01/2018
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLru2MWxmaM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<video width="320" height="240" autoplay>
+  <source src="https://www.youtube.com/watch?v=vLru2MWxmaM" type="video/mp4">
+Your browser does not support the video tag.
+</video>
