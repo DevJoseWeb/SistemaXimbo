@@ -4,6 +4,6 @@ Sistema Audio Visual XIMBO
 
 
 
-  <source src="https://www.youtube.com/watch?v=vLru2MWxmaM" type="video/mp4">
+  https://www.youtube.com/watch?v=vLru2MWxmaM
 
 
